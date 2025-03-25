@@ -1,7 +1,7 @@
 # Document-Similarity-Analyzer-Using-TF-IDF-and-Cosine-Similarity
 
 
-**Completed this project as part of my learning with United Network of Professionals (UNP). Key highlights:**  
+**Completed this project as part of my Information Retrieval subject in my MSc Data Science **  
 
 - Developed a **Document Similarity Analyzer**, a user-friendly tool designed to compare two documents based on textual content.  
 - Implemented **TF-IDF (Term Frequency-Inverse Document Frequency)** for vectorizing text and **cosine similarity** to measure document similarity.  
