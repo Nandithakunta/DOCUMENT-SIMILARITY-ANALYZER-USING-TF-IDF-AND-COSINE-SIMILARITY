@@ -1,5 +1,4 @@
-# Document-Similarity-Analyzer-Using-TF-IDF-and-Cosine-Similarity
-
+# DOCUMENT-SIMILARITY-ANALYZER-USING-TF-IDF-AND-COSINE-SIMILARITY
 
 **Completed this project as part of my Information Retrieval subject in my MSc Data Science **  
 
